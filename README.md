@@ -49,6 +49,8 @@ Images appear on the screen for comparison. Images with platelets, RBCs, and WBC
 
 Images of the first three images are included.
 
+![Figure 1](https://github.com/ablanco1950/Drone_Detection-Fastercnn_fpn-CustomDataset/blob/main/Figure_80.png)
+
 The following summary is obtained:
 
 Platelets labeled = 36 predicted = 38
