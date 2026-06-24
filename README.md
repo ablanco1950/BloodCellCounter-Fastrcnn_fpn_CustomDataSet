@@ -49,7 +49,7 @@ Images appear on the screen for comparison. Images with platelets, RBCs, and WBC
 
 Images of the first three images are included.
 
-![Figure 1](https://github.com/ablanco1950/Drone_Detection-Fastercnn_fpn-CustomDataset/blob/main/Figure_80.png)
+![Figure 1]([https://github.com/ablanco1950/BloodCellCounter-Fastrcnn_fpn_CustomDataSet/blob/main/Figure_1.png])
 
 The following summary is obtained:
 
