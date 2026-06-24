@@ -49,9 +49,13 @@ Images appear on the screen for comparison. Images with platelets, RBCs, and WBC
 
 Images of the first three images are included.
 
+Platelets: red box, RBC: blue box, WBC: green box
+
 ![Figure 1](https://github.com/ablanco1950/BloodCellCounter-Fastrcnn_fpn_CustomDataSet/blob/main/Figure_1.png)
 
 ![Figure 1](https://github.com/ablanco1950/BloodCellCounter-Fastrcnn_fpn_CustomDataSet/blob/main/Figure_2.png)
+
+![Figure 1](https://github.com/ablanco1950/BloodCellCounter-Fastrcnn_fpn_CustomDataSet/blob/main/Figure_3.png)
 
 The following summary is obtained:
 
