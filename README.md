@@ -74,3 +74,20 @@ OBSERVATIONS:
 The model was obtained by trying to fit the boxes labeled by Roboflow. This means that cells located at the edges and not fully represented are not detected. However, when querying the Roboflow test model, the results were correct. https://universe.roboflow.com/team-roboflow/blood-cell-detection-1ekwu, as they are detected.
 
 Since I don't know if each image is part of a set of images, these cells that appear cut off at the edges of the image, if counted, would double the count because they would appear in another image, although if they are not recognized they would not be included in the total count.
+
+References:
+
+https://universe.roboflow.com/team-roboflow/blood-cell-detection-1ekwu/dataset/3 
+
+https://universe.roboflow.com/team-roboflow/blood-cell-detection-1ekwu
+
+https://github.com/MahmudulAlam/Complete-Blood-Cell-Count-Dataset
+
+https://github.com/Shenggan/BCCD_Dataset
+
+
+
+
+
+
+
