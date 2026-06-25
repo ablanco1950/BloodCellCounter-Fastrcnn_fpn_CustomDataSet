@@ -9,7 +9,7 @@ Download the file needed to train the model from the Roboflow website: https://u
 
 Following the instructions on the Roboflow download page, you will obtain a folder named: Blood-Cell-Detection-3 with three subfolders: train, valid, and test.
 
-You need a Roboflow access key, which is... It's free and allows access to other information and documentation.
+You need a Roboflow access key, which is free and allows access to other information and documentation.
 
 You need an environment where the related modules are installed, or you can create a new environment by installing the following:
 
